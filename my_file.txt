@@ -1,0 +1,6 @@
+This is the first line.
+54321 is a number.
+This is the third line.
+This is an appended line.
+09876 is another number.
+Final line after appending.
